@@ -1,6 +1,6 @@
 # Hello world app
-	Deployed to http://138.68.191.132 (DigitalOcean)
-	github repository: 
+	Deployed to http://138.68.191.132 (DigitalOcean; Ubuntu Linux)
+	github repository: https://github.com/dd-oz/HelloWorld
 
 # Architecture
 	Single machine with proxy, wsgi server (Apache) and flask app has been used in this example.
